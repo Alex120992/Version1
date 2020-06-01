@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Конвертер</string>
+    <string name="textview">TextView</string>
+    <string name="butt">Получить результат</string>
+    <string name="re">Здесь будет результат</string>
+    <string-array name="Валюты">
+        <item>Выберите валюту</item>
+        <item>RUB</item>
+        <item>EUR</item>
+        <item>AUD</item>
+        <item>GBP</item>
+        <item>USD</item>
+        <item>JPY</item>
+        <item>AUD</item>
+        <item>AZN</item>
+        <item>AMD</item>
+        <item>BYN</item>
+        <item>BGN</item>
+        <item>BRL</item>
+        <item>HUF</item>
+        <item>BGN</item>
+        <item>BRL</item>
+        <item>HUF</item>
+        <item>HKD</item>
+        <item>CAD</item>
+        <item>CNY</item>
+        <item>MDL</item>
+        <item>NOK</item>
+        <item>CZK</item>
+    </string-array>
+</resources>
+

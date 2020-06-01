@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appunity.retrofit2:adapter-java8:2.0.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.appunity.retrofit2/adapter-java8/2.0.2/f77ac533075ee286c95c41f39c18d12c405cee5c/adapter-java8-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.appunity.retrofit2/adapter-java8/2.0.2/c216b0d3477fd1a078cb312acc33354a128de082/adapter-java8-2.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup:square:5.0.0.20200226@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/square/5.0.0.20200226/1f641fdc4e140f47aeeb234abd48c1cd00b6b75e/square-5.0.0.20200226.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/square/5.0.0.20200226/51fb5790c6f52b5e6c1f786becbe488d6cf90e6/square-5.0.0.20200226-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/square/5.0.0.20200226/1911f6673bb9a1ed9f6cc610e014d564383680b9/square-5.0.0.20200226-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

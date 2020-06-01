@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.progsbase.libraries:JSON:0.4.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.progsbase.libraries/JSON/0.4.0/fba9248c8c08929f354a4ce500d6ea2b82559230/JSON-0.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.progsbase.libraries/JSON/0.4.0/e33392d2e303153ad89ba220e98f298eae4c5205/JSON-0.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.progsbase.libraries/JSON/0.4.0/7303669adb661508cc038e706d189dd04ad8d8d3/JSON-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
